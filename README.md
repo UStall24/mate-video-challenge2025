@@ -1,4 +1,6 @@
-[TOC]
+# Inhaltsverzeichnis
+- [mate-video-challenge2025](#mate-video-challenge2025)
+- [how to commit](#how-to-commit)
 
 # mate-video-challenge2025
 
