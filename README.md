@@ -3,6 +3,8 @@
 - [how to commit](#how-to-commit)
 
 # mate-video-challenge2025
+[Challenge PDF ansehen](2025%20MATE%20ROV%20Ocean%20Exploration%20Video%20Challenge%20Final.pdf)
+
 
 # how to commit
 feat: - Introduces a new feature.
