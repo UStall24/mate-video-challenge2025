@@ -1,0 +1,6 @@
+train: frames/images/train
+val: frames/images/val
+
+nc: 1
+names:
+  0: black_sea_bass
